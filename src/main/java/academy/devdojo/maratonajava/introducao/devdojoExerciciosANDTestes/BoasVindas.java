@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
+package academy.devdojo.maratonajava.introducao.devdojoExerciciosANDTestes;
 
 /*
 Autor: Gabriel virginio campos

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao.Module_Java_Basico;
+package academy.devdojo.maratonajava.introducao.JavaBasic.Module_Real_Cases;
 
 public class Exercicio01 {
     public static void main(String[] args){

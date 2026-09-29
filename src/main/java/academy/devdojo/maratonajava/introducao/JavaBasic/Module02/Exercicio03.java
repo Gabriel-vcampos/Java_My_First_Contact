@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao.Module02;
+package academy.devdojo.maratonajava.introducao.JavaBasic.Module02;
 
 public class Exercicio03 {
     public static void main(String[]Args){
