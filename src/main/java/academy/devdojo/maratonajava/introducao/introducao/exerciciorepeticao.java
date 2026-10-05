@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao.devdojoExerciciosANDTestes;
+package academy.devdojo.maratonajava.introducao.introducao;
 
 public class exerciciorepeticao {
     public static void main (String[] args){
